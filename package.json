@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "ch1",
   "version": "1.0.0",
   "description": "",
@@ -8,14 +7,13 @@
   "devDependencies": {},
   "scripts": {
     "start": "nodemon app.js"
-=======
+  },
   "name": "express",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
->>>>>>> 903e4c627ec5454c0cab31eb32480ad1be1d31ec
   },
   "repository": {
     "type": "git",
