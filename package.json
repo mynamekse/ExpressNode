@@ -1,0 +1,21 @@
+{
+  "name": "ch1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mynamekse/ExpressNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mynamekse/ExpressNode/issues"
+  },
+  "homepage": "https://github.com/mynamekse/ExpressNode#readme"
+}
